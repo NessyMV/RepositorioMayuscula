@@ -1,0 +1,4 @@
+c:\users\victoria\documents\visual studio 2010\Projects\mayuS\mayuS\bin\mayuS.dll
+c:\users\victoria\documents\visual studio 2010\Projects\mayuS\mayuS\bin\mayuS.pdb
+c:\users\victoria\documents\visual studio 2010\Projects\mayuS\mayuS\obj\Debug\mayuS.dll
+c:\users\victoria\documents\visual studio 2010\Projects\mayuS\mayuS\obj\Debug\mayuS.pdb

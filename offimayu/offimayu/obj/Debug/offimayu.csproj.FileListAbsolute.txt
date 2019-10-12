@@ -1,0 +1,4 @@
+c:\users\victoria\documents\visual studio 2010\Projects\offimayu\offimayu\bin\offimayu.dll
+c:\users\victoria\documents\visual studio 2010\Projects\offimayu\offimayu\bin\offimayu.pdb
+c:\users\victoria\documents\visual studio 2010\Projects\offimayu\offimayu\obj\Debug\offimayu.dll
+c:\users\victoria\documents\visual studio 2010\Projects\offimayu\offimayu\obj\Debug\offimayu.pdb
